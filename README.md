@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 87 */
+/* New Things Every Day — Da 87 */
 /* Generates a daily execution log with a random metric */
 
 function dailyLog87() {
